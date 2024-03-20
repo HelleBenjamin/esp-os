@@ -4,6 +4,7 @@ An operating system that is designed for microcontrollers. Written in C++. Succe
 ## Compatibility
 - Tested and fully working on ESP8266.
 - Needs modded kernel for other microcontrollers.
+- Kernel and OS need to be the same version for now.
 ## Programs
 - SysInfo: View information about the system.
 ## Terminal commands
