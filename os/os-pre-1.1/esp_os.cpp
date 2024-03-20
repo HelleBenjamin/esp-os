@@ -5,7 +5,7 @@
 #include <ESP_EEPROM.h>
 
 
-#define helpMessage "Commands: help, sysinfo, echo <text>, pinwrite <pin> <value>, pinread <pin>, calculator"
+#define helpMessage "Commands: help, sysinfo, echo <text>, pinset <pin> <value>, pinread <pin>, calculator"
 
 void operating_system::calculator() {
     while (true) {
