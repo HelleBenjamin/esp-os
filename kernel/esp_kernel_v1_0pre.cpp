@@ -76,12 +76,12 @@ int syscalls::read(int addr, int type) {
 
 void syscalls::write(int addr, int type, int value) {
     if (type == 0) {
-        String stringValue = String(value); // Convert int to string
-        int length = stringValue.length(); // Get length of string
-        EEPROM.put(addr, stringValue); // Store string in EEPROM
+        String stringValue = String(value); 
+        int length = stringValue.length(); 
+        EEPROM.put(addr, stringValue); 
         EEPROM.commit();
     } else if (type == 1) {
-        EEPROM.put(addr, value); // Store int directly in EEPROM
+        EEPROM.put(addr, value);
         EEPROM.commit();
     }
 }
