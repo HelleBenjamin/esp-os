@@ -1,4 +1,4 @@
-#include "esp_kernel_v1_0pre.h"
+#include "esp_kernel.h"
 #include "esp_os.h"
 #include <Arduino.h>
 #include <ESP_EEPROM.h>
