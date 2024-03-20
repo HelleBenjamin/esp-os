@@ -1,0 +1,8 @@
+This file contains documentation of available terminal commands
+- help: display a list of available commands
+- sysinfo: display system information
+- echo: repeats a text
+- pinset: set pin(io pin 1, 2 and onboard led(3)) state to 1 or 0
+- pinread: reads pin(io pin 3 and 4) state
+- calculator: a simple calculator
+- my_program: an example program in programs.cpp
