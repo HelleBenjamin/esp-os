@@ -1,5 +1,5 @@
-#ifndef ESP_KERNEL_V1_0PRE_H
-#define ESP_KERNEL_V1_0PRE_H
+#ifndef ESP_KERNEL_H
+#define ESP_KERNEL_H
 
 #define kernelversion "Kernel: Esp-kernel 1.0-dev"
 #define osversion "OS: Esp-os pre 1.0"
