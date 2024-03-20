@@ -12,5 +12,6 @@ The console allows you to enter and execute them. Use the following commands:
 - systeminfo: Display information about the system.
 - echo: echos a message
 ## Versions
-- Pre-Release 1.0
+- Pre-Release 1.0 (Latest, Recommended)
 - Pre-Release 1.1 (Work in progress)
+- Release 1.0 (Expected before the summer)
