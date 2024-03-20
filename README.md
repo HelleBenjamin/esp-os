@@ -7,6 +7,7 @@ An operating system that is designed for microcontrollers. Written in C++. Succe
 - Kernel and OS need to be the same version for now.
 ## Programs
 - SysInfo: View information about the system.
+- Calculator: A simple calculator
 ## Terminal commands
 The console allows you to enter and execute them. Use the following commands:
 - help: Display a list of available commands.
