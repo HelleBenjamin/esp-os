@@ -1,7 +1,7 @@
 #ifndef ESP_OS_H
 #define ESP_OS_H
 
-#define osversion "OS: Esp-os Release 1.1"
+#define osversion "OS: Esp-os Release 1.0.1"
 
 class operating_system {
 public:
