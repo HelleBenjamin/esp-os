@@ -15,5 +15,6 @@ The terminal allows you to enter and execute them. See available [commands](http
 ## Versions
 - Pre-Release 1.0 (Released)
 - Pre-Release 1.1 (Released)
-- Release 1.0 (Latest, Recommended)
+- Release 1.0 (Released)
+- Release 1.0.1 (Latest, Recommended)
 - Release 1.1 (Work in progress)
