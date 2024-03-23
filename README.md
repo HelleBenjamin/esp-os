@@ -13,8 +13,9 @@ An operating system that is designed for microcontrollers. Written in C++. Succe
 ## Terminal commands
 The terminal allows you to enter and execute them. See available [commands](https://github.com/Pepe-57/esp-os/blob/main/commands.txt).
 ## Versions
-- Pre-Release 1.0 (Released)
-- Pre-Release 1.1 (Released)
+Legacy versions aren't supported or maintained
+- Pre-Release 1.0 (Released, Legacy version)
+- Pre-Release 1.1 (Released, Legacy version)
 - Release 1.0 (Released)
 - Release 1.0.1 (Latest, Recommended)
 - Release 1.1 (Work in progress)
