@@ -6,3 +6,7 @@ This file contains documentation of available terminal commands
 - pinread: reads pin(io pin 3 and 4) state
 - calculator: a simple calculator
 - my_program: an example program in programs.cpp
+- ram: read ram from start address to end address
+- reboot: restart the os
+- pinreset: set all output pins to 0
+- direct_syscall, dscall: starts a direct syscall program
