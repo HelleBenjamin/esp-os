@@ -2,7 +2,7 @@
 #define ESP_KERNEL_H
 #include <Arduino.h>
 
-#define kernelversion "Kernel: Esp-kernel 1.1-release"
+#define kernelversion "Kernel: Esp-kernel 1.0.1-release"
 #define drivers "Drivers: IO driver"
 #define RAM_SIZE 1024
 #define EEPROM_SIZE 2048
