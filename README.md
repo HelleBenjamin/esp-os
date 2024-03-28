@@ -22,11 +22,11 @@ Task scheduler allows you to create and schedule tasks, with different prioritie
 - 5 - Normal priority, used for normal tasks
 - 6-10 - Lower priority, used for example blinking a led
 ### Commands
-- scheduler.create_task(function, period, name, priority)
-- scheduler.kill_task(pid)
-- scheduler.get_tasks()
-- scheduler.get_pid(name)
-- scheduler.execute_tasks()
+- ``scheduler.create_task(function, period, name, priority)``
+- ``scheduler.kill_task(pid)``
+- ``scheduler.get_tasks()``
+- ``scheduler.get_pid(name)``
+- ``scheduler.execute_tasks()``
 ## Versions
 Legacy versions aren't supported or maintained
 - Pre-Release 1.0 (Released, Legacy version)
