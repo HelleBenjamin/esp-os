@@ -36,3 +36,4 @@ Legacy versions aren't supported or maintained
 - Release 1.1.0 (Latest, Recommended)
 - Pre-Release 1.2 (Coming before release v1.2.0)
 - Release 1.2.0 (Work in progress)
+I'm not a professional and some information or things could be wrong!
