@@ -31,7 +31,7 @@ Task scheduler allows you to create and schedule tasks, with different prioritie
 Legacy versions aren't supported or maintained
 - Pre-Release 1.0 (Released, Legacy version)
 - Pre-Release 1.1 (Released, Legacy version)
-- Release 1.0 (Released)
+- Release 1.0 (Released, Legacy version)
 - Release 1.0.1 (Released)
 - Release 1.1.0 (Latest, Recommended)
 - Pre-Release 1.2 (Coming before release v1.2.0)
