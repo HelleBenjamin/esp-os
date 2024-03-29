@@ -6,7 +6,7 @@
 #include <ESP_EEPROM.h>
 
 
-#define helpMessage "Commands: help, sysinfo, echo <text>, pinset <pin> <value>, pinread <pin>, calculator, my_program, ram <from> <to>, reboot, pinreset, direct_syscall or dscall, get_eeprom, tasks, taskill <pid>"
+#define helpMessage "Commands: help, sysinfo, echo <text>, pinset <pin> <value>, pinread <pin>, calculator, my_program, ram <from> <to>, reboot, pinreset, direct_syscall or dscall, get_eeprom, tasks, taskkill <pid>"
 
 void operating_system::terminal() {
     Serial.println("--Terminal--");
