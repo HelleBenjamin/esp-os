@@ -7,7 +7,6 @@
 #include <ESP_EEPROM.h>
 #include <vector>
 
-
 /* To do:
 - Settings menu
 - Task manager
