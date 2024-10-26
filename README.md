@@ -1,8 +1,9 @@
 # ESP-OS
-![Logo of ESP-CF](https://github.com/Pepe-57/esp-os/blob/main/esp-os_logo.jpeg)
-An operating system that is designed for microcontrollers. Written in C++. Successor of [Esp-cf](https://github.com/Pepe-57/esp-cf). It's recommended to download from [the releases](https://github.com/Pepe-57/esp-os/releases) and use [PuTTY](https://www.putty.org/) as a serial interface.
+![Logo of ESP-CF](./esp-os_logo.jpeg)
+An operating system that is designed for microcontrollers. Written in C++. Successor of [Esp-cf](https://github.com/HelleBenjamin/esp-cf). It's recommended to download from [the releases](https://github.com/HelleBenjamin/esp-os/releases) and use [PuTTY](https://www.putty.org/) as a serial interface.
+### The development of version 1.x.x is come to an end. Consider using version [2.x.x](https://github.com/HelleBenjamin/esp-os/tree/esp-os-2)
 ## Compatibility
-- Tested and fully working on ESP8266 and Arduino Uno R4 Wifi (Requires [Arduino-Kernel](https://github.com/Pepe-57/esp-os/releases/tag/v1.1.0-arduino)).
+- Tested and fully working on ESP8266 and Arduino Uno R4 Wifi (Requires [Arduino-Kernel](https://github.com/HelleBenjamin/esp-os/releases/tag/v1.1.0-arduino)).
 - Should work on ESP32.
 - May need a modded kernel for other microcontrollers.
 - Kernel and OS need to be the same version for now.
@@ -11,7 +12,7 @@ An operating system that is designed for microcontrollers. Written in C++. Succe
 - Calculator: A simple calculator.
 - Direct Syscall: Execute system calls directly.
 ## Terminal commands
-The terminal allows you to enter and execute them. See available [commands](https://github.com/Pepe-57/esp-os/blob/main/commands.txt).
+The terminal allows you to enter and execute them. See available [commands](https://github.com/HelleBenjamin/esp-os/blob/main/commands.txt).
 ## Task scheduler
 Task scheduler allows you to create and schedule tasks, with different priorities, for example, blinking an led(built-in). Task scheduler also allows you to kill tasks by pid. 
 ### Priority map:
@@ -29,12 +30,10 @@ Task scheduler allows you to create and schedule tasks, with different prioritie
 - ``scheduler.execute_tasks()``
 ## Versions
 Legacy versions aren't supported or maintained
-- Pre-Release 1.0 (Released, Legacy version)
-- Pre-Release 1.1 (Released, Legacy version)
-- Release 1.0 (Released, Legacy version)
-- Release 1.0.1 (Released)
-- Release 1.1.0 (Latest, Recommended)
-- Pre-Release 1.2 (Coming before release v1.2.0)
-- Release 1.2.0 (Work in progress)
-
+- Pre-Release 1.0 (Legacy version)
+- Pre-Release 1.1 (Legacy version)
+- Release 1.0 (Legacy version)
+- Release 1.0.1 (Legacy version)
+- Release 1.1.0 (Final version of v1.x.x)
+- Versions 2.x.x (Supported version)
 I'm not a professional and some information or things could be wrong!
