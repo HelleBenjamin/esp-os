@@ -1,4 +1,4 @@
-# ESP-OS 2
+# ESP-OS
 ![Logo of ESP-CF](./esp-os_logo.jpeg)
 An hobby operating system that is designed for microcontrollers. Written in C++. Successor of [Esp-cf](https://github.com/HelleBenjamin/esp-cf). It's recommended to download from [the releases](https://github.com/HelleBenjamin/esp-os/releases) and use [PuTTY](https://www.putty.org/) as a serial interface. 
 ### This Readme file is only for versions 2.0.0 and later. For older versions please refer to [the previous version.](https://github.com/HelleBenjamin/esp-os/tree/main/)
