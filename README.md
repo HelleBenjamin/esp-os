@@ -26,10 +26,7 @@ New programs and features will be added in the future.
 
 ## Versions
 Legacy versions aren't supported or maintained
-- Pre-Release 1.0 (Legacy version)
-- Pre-Release 1.1 (Legacy version)
-- Release 1.0 (Legacy version)
-- Release 1.0.1 (Legacy version)
-- Release 1.1.0 (Latest Stable, Recommended)
-- Pre-Release 2.0.0 (New kernel, Latest)
+- Versions 1.x.x (Legacy)
+- Pre-Release 2.0.0 (Latest, Recommended)
+
 I'm not a professional and some information or things could be wrong!
