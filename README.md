@@ -13,7 +13,7 @@ An hobby operating system that is designed for microcontrollers. Written in C++.
 The terminal allows you to enter and execute them. See available [commands](https://github.com/HelleBenjamin/esp-os/blob/esp-os-2/commands.txt).
 ## Task scheduler
 ### Task scheduler is beign developed for the Lanskern Embedded kernel
-Task scheduler allows you to create and schedule tasks, with different priorities, for example, blinking an led(built-in). Task scheduler also allows you to kill tasks by pid. Version 1.x.x scheduler uses priority-finish scheduling. This type of scheduler executes tasks and finishes them in priority order. One of the biggest disadvantages of this scheduler is that the system becomes unresponsive when one tasks includes large or infinite loops.
+Task scheduler allows you to create and schedule tasks, with different priorities, for example, blinking an led(built-in). Task scheduler also allows you to kill tasks by pid. Version 1.x.x scheduler uses priority-finish scheduling. This type of scheduler executes tasks and finishes them in priority order. One of the biggest disadvantages of this scheduler is that the system becomes unresponsive when one task includes large or infinite loop.
 ## Major update
 ### ESP-OS 2.0.0 includes a new kernel and other major changes
 The old esp-kernel is replaced by lanskern-embeded. Lanskern-embeded is an embedded version of [Lanskern](https://github.com/HelleBenjamin/Lanskern), one of my kernel projects. Its main goal is to make os developemt cross-platform compatible without major changes. Current versions will be developed for the new kernel.
